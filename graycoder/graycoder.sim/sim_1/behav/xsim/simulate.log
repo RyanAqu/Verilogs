@@ -1,0 +1,19 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+gray: 0000, binary: 0000
+gray: 0001, binary: 0001
+gray: 0011, binary: 0010
+gray: 0010, binary: 0011
+gray: 0110, binary: 0100
+gray: 0111, binary: 0101
+gray: 0101, binary: 0110
+gray: 0100, binary: 0111
+gray: 1100, binary: 1000
+gray: 1101, binary: 1001
+gray: 1111, binary: 1010
+gray: 1110, binary: 1011
+gray: 1010, binary: 1100
+gray: 1011, binary: 1101
+gray: 1001, binary: 1110
+gray: 1000, binary: 1111
+$finish called at time : 160 ns : File "C:/Users/22140/Desktop/graycoder/graycoder.srcs/sim_1/new/tb_gray_decoder.v" Line 63

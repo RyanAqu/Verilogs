@@ -1,0 +1,9 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Users/22140/Desktop/graycoder/graycoder.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+C:/Users/22140/Desktop/graycoder/graycoder.srcs/sim_1/new/tb_gray_coder.v,1731566658,verilog,,,,tb_gray_coder,,,,,,,,
+C:/Users/22140/Desktop/graycoder/graycoder.srcs/sim_1/new/tb_gray_decoder.v,1731572090,verilog,,,,tb_gray_decoder,,,,,,,,
+C:/Users/22140/Desktop/graycoder/graycoder.srcs/sources_1/new/gray_coder_4bit.v,1731566820,verilog,,C:/Users/22140/Desktop/graycoder/graycoder.srcs/sim_1/new/tb_gray_coder.v,,gray_coder_4bit,,,,,,,,
+C:/Users/22140/Desktop/graycoder/graycoder.srcs/sources_1/new/gray_decoder_4bit.v,1731570873,verilog,,C:/Users/22140/Desktop/graycoder/graycoder.srcs/sim_1/new/tb_gray_decoder.v,,gray_decoder_4bit,,,,,,,,
